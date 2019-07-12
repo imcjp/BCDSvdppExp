@@ -1,6 +1,5 @@
-说明
-本项目实现了蔡剑平等人所著文献《带有隐式反馈的SVD推荐模型高效求解算法》[1]。
-实现BCDSVD++和BCDTrustSVD两种算法，语言为Matlab，实验数据集为Movielens各版本以及FilmTrust。
+说明：
+本项目实现了蔡剑平等人所著文献《带有隐式反馈的SVD推荐模型高效求解算法》[1]。实现BCDSVD++和BCDTrustSVD两种算法，语言为Matlab，实验数据集为Movielens各版本以及FilmTrust。
 
 其中包含如下文件：
 1、实验结果.xlsx：作者进行实验的实验结果，也是文章的实验结果来源。
