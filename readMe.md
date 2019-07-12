@@ -11,4 +11,5 @@
 引用格式:
 
 [1]蔡剑平, 雷蕴奇, 陈明明, 等. 带有隐式反馈的SVD推荐模型高效求解算法. 中国科学: 信息科学, 在审文章
+
     Cai J P, Lei Y Q, Chen M M, et al. Efficient Solution of SVD Recommendation Model with Implicit Feedback (in Chinese). Sci Sin Inform, for review
